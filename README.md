@@ -1,6 +1,6 @@
 # Recipe Finder
 
-A simple app which allows you to look for recipes. For the search you can either input a main ingredient or a compplete dish
+A simple app which allows you to look for recipes. For the search you can either input a main ingredient or a compglete dish
 
 ## You can customize your search with different parameters:
 
